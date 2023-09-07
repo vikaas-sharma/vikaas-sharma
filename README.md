@@ -28,7 +28,7 @@ I'm passionate about **Web Development**, particularly in the exciting world of 
 
 I'm open to collaborating on exciting web development projects or discussing opportunities. Feel free to reach out:
 
-- 📫 **Email:** your.email@example.com
+- 📫 **Email:** vikaas.oct15@example.com
 - 🔗 **LinkedIn:** [Connect with me](your-linkedin-profile-link)
 
 Let's build awesome web applications together! 🚀
