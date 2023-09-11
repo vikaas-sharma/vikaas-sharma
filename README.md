@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://drive.google.com/drive/u/1/my-drive" alt="Vikaas Sharma - Web Developer" width="200"/>
-</div>
-
-# Hello, I'm Vikaas Sharma! 👋
+# Hello, I'm Vikas Sharma! 👋
 
 I'm passionate about **Web Development**, particularly in the exciting world of the **MERN stack**. 🚀
 
