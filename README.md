@@ -9,16 +9,10 @@ I'm passionate about **Web Development**, particularly in the exciting world of 
 
 ## Tech Stack 🛠️
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Frontend:** HTML, CSS, JavaScript, React.js,React Native
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Tools:** Git, VS Code, Postman, Figma
-
-## Projects 🚀
-
-- 🌐 [Project 1](link-to-project-1): Brief description of your project.
-- 🌐 [Project 2](link-to-project-2): Brief description of your project.
-- 🌐 [Project 3](link-to-project-3): Brief description of your project.
 
 ## Let's Collaborate 🤝
 
