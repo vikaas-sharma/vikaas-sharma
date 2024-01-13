@@ -9,7 +9,7 @@ I'm passionate about **Web Development**, particularly in the exciting world of 
 
 ## Tech Stack 🛠️
 
-- **Frontend:** JavaScript, React.js,React Native
+- **Frontend:** JavaScript, React.js.Redux.js,Next.js,React Native
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Tools:** Git, VS Code, Postman, Figma
