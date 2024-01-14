@@ -11,14 +11,5 @@ I'm passionate about **Web Development**, particularly in the exciting world of 
 
 - **Frontend:** JavaScript, React.js.Redux.js,Next.js,React Native
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** MongoDB,Mysql
 - **Tools:** Git, VS Code, Postman, Figma
-
-## Let's Collaborate 🤝
-
-I'm open to collaborating on exciting web development projects or discussing opportunities. Feel free to reach out:
-
-- 📫 **Email:** vikaas.oct15@gmail.com
-- 🔗 **LinkedIn:** [Connect with me](your-linkedin-profile-link)
-
-Let's build awesome web applications together! 🚀
